@@ -5,7 +5,7 @@
 ### 个人信息  
 - **邮箱**：zhangsan@email.com  
 - **电话**：+86 138-1234-5678  
-- **GitHub**：[github.com/zhangsan](https://github.com/zhangsan)  
+- **GitHub**：[github.com/zx33333](https://github.com/zx33333)  
 
 ### 教育背景  
 - **学校**：某某大学  
